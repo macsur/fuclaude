@@ -79,6 +79,7 @@ http://ip:8181  #打开自己VPS的端口加ip进入web页面
 
 claude官网的sessionKey获取方法
 如下图所示
+[![2024-08-06_103141.png](http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png)](http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png)
 ![2024-08-06_103141.png](http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png)
 
 五、绑定域名
