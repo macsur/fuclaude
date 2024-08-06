@@ -1,7 +1,12 @@
 # Fuclaude
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mPax7h5UhOw/0.jpg)](https://www.youtube.com/watch?v=mPax7h5UhOw)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mPax7h5UhOw?si=fc0V8iL8IaCOfcyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Docker搭建claude网站-原潘多拉作者新作
+
+视频说明文档请参考：https://www.ywsj365.com/archives/docker-da-jian-claude-wang-zhan---yuan-pan-duo-la-zuo-zhe-xin-zuo
 
 这是最新claude镜像网站作品，完美使用Claude 3.5 Sonnet欢迎体验。
 
@@ -79,7 +84,10 @@ http://ip:8181  #打开自己VPS的端口加ip进入web页面
 
 claude官网的sessionKey获取方法
 如下图所示
+http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png
+
 [![2024-08-06_103141.png](http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png)](http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png)
+
 ![2024-08-06_103141.png](http://pic1.gitme.us.kg/i/2024/08/06/66b193463f2c3.png)
 
 五、绑定域名
