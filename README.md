@@ -1,8 +1,7 @@
 # Fuclaude
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mPax7h5UhOw/0.jpg)](https://www.youtube.com/watch?v=mPax7h5UhOw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mPax7h5UhOw?si=fc0V8iL8IaCOfcyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+---
 
 Docker搭建claude网站-原潘多拉作者新作
 
@@ -11,7 +10,7 @@ Docker搭建claude网站-原潘多拉作者新作
 这是最新claude镜像网站作品，完美使用Claude 3.5 Sonnet欢迎体验。
 
 Claude 3.5 Sonnet 是我们迄今为止最强大的视觉模型，在标准视觉基准上超越了 Claude 3 Opus。这些重大改进对于需要视觉推理的任务最为明显，例如解释图表和图形。Claude 3.5 Sonnet 还可以准确地从不完美的图像中转录文本 - 这是零售、物流和金融服务的核心功能，在这些服务中，AI 可以从图像、图形或插图中获得比仅从文本中更多的见解。
-
+---
 demo 
 https://claude.itellyou.cf/
 登录自己的claude账号使用
@@ -23,6 +22,8 @@ https://clai.zttz.eu.org
 登录自己的claude账号使用
 本demo 2 网站密码：zttz.eu.org
 
+
+---
 准备条件
 1）一台服务器
 需要便宜VPS的可以参考这个《RackNerd》|《vultr》|《莱卡云》|《lightnode》
